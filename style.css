@@ -24,13 +24,13 @@ p {
 	 }
 	p {
 		font-size: 2rem;
-		
+
 		background: indianred;
 	}
 }
 @media screen and (max-width: 768px) {
 	h1{
-		font-size: 3rem;
+		font-size: .5rem;
 		color: darkred;
 		Background:blue;
 	}
@@ -41,7 +41,7 @@ p {
 }
 @media screen and (max-width: 600px) 
 p {
-		font-size: 5rem;
+		font-size: 2rem;
 		font-color:darkred;
 		line-height: 2;
 		font-family: "Times New Roman", Times, serif;
@@ -65,7 +65,7 @@ p {
 @media screen and (max-width: 320px)
 h2 {
 	background:yellow;
-	font-szie: 5;
+	font-size: 1rem;
 }
 h1 {
 	background:orange;
