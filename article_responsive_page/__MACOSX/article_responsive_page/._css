@@ -1,0 +1,31 @@
+body
+{
+	margin: 0px;
+	padding: 0px;
+}
+ 
+h1 {
+   font-size: 35px;
+}
+ 
+h2 {
+  	font-size: 30px;
+}
+ 
+p {
+	font-size: 25px;
+}
+ 
+@media screen and (max-width: 1024px) {
+	p {
+		font-size: 2rem;
+	}
+}
+@media screen and (max-width: 768px) {
+	h1{
+		font-size: 3rem;
+	}
+}
+@media screen and (max-width: 600px) 
+@media screen and (max-width: 480px) 
+@media screen and (max-width: 320px)
