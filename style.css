@@ -18,7 +18,7 @@ p {
  
 @media screen and (max-width: 1024px) {
 	h1 { 
-	color: orange;
+	font-color: orange;
 	line-height: .5;
 	margine: 10;
 	 }
