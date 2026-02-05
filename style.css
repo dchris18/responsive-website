@@ -57,7 +57,7 @@ h1 {
 	padding: 30;
 }
 p {
-	font-size: 4rem;
+	font-size: 1rem;
 	line-height: 1;
 }
 
@@ -71,6 +71,6 @@ h1 {
 	background:orange;
 }
 p {
-	background:red;
+	background:lightpink;
 	line-height: 3;
 }
