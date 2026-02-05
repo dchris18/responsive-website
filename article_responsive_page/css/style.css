@@ -1,0 +1,75 @@
+body
+{
+	margin: 0px;
+	padding: 10px;
+}
+ 
+h1 {
+   font-size: 35px;
+}
+ 
+h2 {
+  	font-size: 30px;
+}
+ 
+p {
+	font-size: 25px;
+}
+ 
+@media screen and (max-width: 1024px) {
+	h1 { 
+	color: orange;
+	line-height: .5;
+	margine: 10;
+	 }
+	p {
+		font-size: 2rem;
+		background: indianred;
+	}
+}
+@media screen and (max-width: 768px) {
+	h1{
+		font-size: 3rem;
+		color: darkred;
+		Background:blue;
+	}
+	h2 {
+		background:darkred;
+		color:blue;
+	}
+}
+@media screen and (max-width: 600px) 
+p {
+		font-size: 5rem;
+		font-color:darkred;
+		line-height: 2;
+		font-family: "Times New Roman", Times, serif;
+		background: green;
+
+	}
+}
+
+@media screen and (max-width: 480px) 
+h1 {
+	color: lightblue;
+	background: darkblue;
+	padding: 30;
+}
+p {
+	font-size: 4rem;
+	line-height: 1;
+}
+
+
+@media screen and (max-width: 320px)
+h2 {
+	background:yellow;
+	font-szie: 5;
+}
+h1 {
+	background:orange;
+}
+p {
+	background:red;
+	line-height: 3;
+}
